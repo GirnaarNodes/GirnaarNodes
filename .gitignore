@@ -1,0 +1,6 @@
+.env
+artifacts
+cache
+docs
+node_modules
+setup.sh
