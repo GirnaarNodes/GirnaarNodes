@@ -1,4 +1,7 @@
 .env
+.DS_Store
+.gitignore
+back
 artifacts
 cache
 docs
